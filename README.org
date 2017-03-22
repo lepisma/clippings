@@ -1,0 +1,5 @@
+#+TITLE: kindle-highlights
+
+[[https://travis-ci.org/lepisma/kindle-highlights][https://img.shields.io/travis/lepisma/kindle-highlights.png]]
+
+My kindle clippings. View [[https://lepisma.github.io/kindle-highlights][here]].
