@@ -15,7 +15,7 @@ git checkout gh-pages || git checkout --orphan gh-pages
 pipenv run hy build.hy
 
 git config user.name "CI auto deploy"
-git config user.email "abhinav.tushar.vs@gmail.com"
+git config user.email "lepisma@fastmail.com"
 
 git add .
 git commit -m "Auto deploy to GitHub Pages: ${SHA}"

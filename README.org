@@ -1,5 +1,5 @@
-#+TITLE: kindle-highlights
+#+TITLE: clippings
 
-[[https://travis-ci.org/lepisma/kindle-highlights][https://img.shields.io/travis/lepisma/kindle-highlights.png]]
+[[https://travis-ci.org/lepisma/clippings][https://img.shields.io/travis/lepisma/clippings.png]]
 
-My kindle clippings. View [[https://lepisma.github.io/kindle-highlights][here]].
+Clippings from readings. Mostly lines that made me pause for a while. View [[https://lepisma.github.io/clippings][here]].

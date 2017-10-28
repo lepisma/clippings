@@ -11,7 +11,7 @@
        <html lang=\"en\">
          <head>
            <meta charset=\"utf-8\"/>
-           <title>Kindle Clippings | Abhinav Tushar</title>
+           <title>Clippings | Abhinav Tushar</title>
            <link rel=\"stylesheet\" href=\"tufte.css\"/>
            <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
            <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"https://lepisma.github.io/assets/images/favicons/apple-touch-icon-57x57.png\" />
@@ -39,14 +39,13 @@
 (setv page-body-start
       "<body>
          <article>
-           <h1>Kindle Clippings</h1>
+           <h1>Clippings</h1>
            <p class=\"subtitle\">
              <a href=\"https://lepisma.github.io/about\">Abhinav Tushar</a></p>
            <section>
              <p>
-                Hello, this is a <em>randomized</em> listing of lines I have
-                highlighted in my Kindle.
-                This page uses
+                Hello, this is a <em>randomized</em> listing of clippings from
+                my readings. This page uses
                 <a href=\"https://edwardtufte.github.io/tufte-css/\">tufte-css</a>.
                 Source is
                 <a href=\"https://github.com/lepisma/kindle-highlights\">here</a>.
