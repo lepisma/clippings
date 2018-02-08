@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.6"
+install:
+  - pip install pipenv
+  - pipenv install
+
+env:
+  global:
+    - ENCRYPTION_LABEL: "14e7f88b793c"
+
+script:
+  bash ./travis-build.sh

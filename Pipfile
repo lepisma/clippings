@@ -1,0 +1,11 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+eep = "*"
+hy = "==0.12.1"
+pyyaml = "*"
