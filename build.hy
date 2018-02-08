@@ -43,7 +43,7 @@
            <p class=\"subtitle\">
              <a href=\"https://lepisma.github.io/about\">Abhinav Tushar</a></p>
            <section>
-             <p><em>This list now lives <a href=\"https://lepisma.github.io/pile/readings/books\">here</a></em></p>
+             <p><em>This list now lives <a href=\"https://lepisma.github.io/pile/readings/clippings\">here</a></em></p>
              <p>
                 Hello, this is a <em>randomized</em> listing of clippings from
                 my readings. This page uses
