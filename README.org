@@ -1,5 +1,9 @@
 #+TITLE: clippings
 
+#+BEGIN_QUOTE
+This list now lives [[https://lepisma.github.io/pile/readings/clippings][here]]
+#+END_QUOTE
+
 [[https://travis-ci.org/lepisma/clippings][https://img.shields.io/travis/lepisma/clippings.png]]
 
 Clippings from readings. Mostly lines that made me pause for a while. View [[https://lepisma.github.io/clippings][here]].
